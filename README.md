@@ -1,3 +1,12 @@
+![Screenshot (185)](https://github.com/Adi-R12/MedEase/assets/97426655/c6ab8f7f-5479-4f94-b853-88acb7cbb6b9)
+![Screenshot (184)](https://github.com/Adi-R12/MedEase/assets/97426655/c06481c7-a7fa-4db3-8664-206426daed85)
+![Screenshot (191)](https://github.com/Adi-R12/MedEase/assets/97426655/81955cc6-be5b-4632-b34f-feef82e03d6c)
+![Screenshot (190)](https://github.com/Adi-R12/MedEase/assets/97426655/3cc0fdb2-ee9f-43ce-9faf-bce15665c6f7)
+![Screenshot (189)](https://github.com/Adi-R12/MedEase/assets/97426655/f94bd521-9021-4bd0-8eb7-f149ccadc172)
+![Screenshot (188)](https://github.com/Adi-R12/MedEase/assets/97426655/b81ecc7c-0d70-4d69-912b-631424647333)
+![Screenshot (187)](https://github.com/Adi-R12/MedEase/assets/97426655/1c05ecbe-4d0d-4dcb-bd04-1a78e61e6a43)
+![Screenshot (186)](https://github.com/Adi-R12/MedEase/assets/97426655/f457ad55-8a09-4828-b3ad-e9386aed2391)
+
 # Medease
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
@@ -7,7 +16,9 @@ This is a webapp where you can book an appointment with a doctor.
 
 ### 📃Features :
 
-<ul>
+<ul>![Uploading Screenshot (185).png…]()
+![Uploading Screenshot (184).png…]()
+
 <li>User can register and login.</li>
 <li>You can view all available doctors on the site.</li>
 <li>You can also update your profile.</li>
@@ -60,3 +71,7 @@ This is a webapp where you can book an appointment with a doctor.
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <br/>
 
+### Connect with me :
+
+<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Avinash905 | LinkedIn" height="35" width="35" /></a>
+<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinashdunna" height="30" width="40" /></a>
