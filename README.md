@@ -11,7 +11,7 @@
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
 
-👉[Click here](https://medeasev1.onrender.com/) to check out the app.
+👉[Click here](https://clever-blini-4c40d5.netlify.app/) to check out the app.
 <br/>
 
 ### 📃Features :
